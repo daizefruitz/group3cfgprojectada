@@ -8,25 +8,88 @@
     <title>Homepage</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<!--Swiper-->
+<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+<!--Slider-->
+<link rel="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<!--Google Font-->
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
+                
 
-    <h1>LOGO</h1>
+        <nav class="navigation-bar">
+            <img class="logo" src="FTLOGO.png">
+            <a href="#">Donate</a>
+            <a href="#">Case Studies</a>
+            <a href="#">About</a>
+            <a href="#">Home</a>
+        </nav>
+       
+
 </head>
 <body>
-    <ul>
-        <li><a href="#home">Home</a></li>
-        <li><a href="#about">About</a></li>
-        <li><a href="#casestudies">Case Studies</a></li>
-        <li><a href="#donate">Donate</a></li>
-      </ul>
 
-<h2>Let's celebrate women</h2>
+<img src="https://images.unsplash.com/photo-1573166364902-982ae58a27ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80" 
+alt="Image 1 Text" width="800" class="headerimage"/>
 
-<p1>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non pulvinar neque laoreet suspendisse interdum consectetur libero. 
-    Sed velit dignissim sodales ut eu sem integer vitae justo. Sed turpis tincidunt id aliquet risus feugiat. Pretium lectus quam id leo in. Quam pellentesque nec nam aliquam. Eget arcu dictum varius duis at consectetur lorem.
-    Eget mi proin sed libero enim sed. Vulputate mi sit amet mauris commodo quis imperdiet massa tincidunt. Ac turpis egestas maecenas pharetra convallis.</p1>
+<h2>Let's celebrate women!</h2>
 
+<div class="Home-About">
+<p1>FemTech is a charity supporting and uplifting women in the world of technology. Here to inspire other women to join</p1>
+</div>
+
+<div class="Home-Cases">
 <h3>Check out the case studies</h3>
+</div>
+
+  <div class="swiper-wrapper">
+  <section class="CS1">
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper mySwiper container"> 
+      <div class="swiper-wrapper content">
+        <div class="swiper-slide card">
+          <div class="card-content">
+            <div class="image">
+              <img src="CS1.png" alt="">
+            </div>
+            <div class="name-profession">
+              <span class="name"> Manal Al Sharif</span>
+              <span class="profession"> Founder of Women2Hack</span>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+      
+    </div>
+
+    <div class="swiper-pagination"></div>
+		
+		
+
+  </section>
+  </div>
+
+	<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+	<!-- Initialize Swiper -->
+	<script>
+		var swiper = new Swiper('.swiper-container', {
+      slidesPerView: 3,
+      spaceBetween: 30,
+      slidesPerGroup: 3,
+      loop: true,
+      loopFillGroupWithBlank: true,
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+      },
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+    });
+	</script>
 
 </body>
 </html>
