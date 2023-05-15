@@ -1,1 +1,105 @@
+/*CASE STUDIES : 
+nav {
+    height: 80px;
+    background: #FF80EA;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0rem calc((100vw - 1300px) / 2);
+  }
+  
+  .logo {
+    color: #000;
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-style: italic;
+    padding: 0 2rem;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #000;
+    padding: 0 1.5rem;
+  }
+  
+  nav a:hover {
+    color: #fff;
+  }
+  
+  .Nav-image{
+    position: center;
+  }
 
+  .introduction {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: Italic;
+    font-size: small;
+    font-weight: normal;
+    word-spacing: 0.6px;
+  }
+
+  .Studycase1 {
+    padding: 150px;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+   }
+   .Studycasetext1 {
+    text-align: justify;
+    padding-left: 70px;
+   }
+ 
+   .Studycase2 {
+    padding: 150px;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+  }
+  .Studycasetext2 {
+    text-align: justify;
+    padding-left: 70px;
+  }
+
+  .Studycase3 {
+    padding: 150px;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+   }
+   .Studycasetext3 {
+    text-align: justify;
+    padding-left: 70px;
+  }
+
+   .Studycase4 {
+    padding: 150px;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+   }
+   .Studycasetext4 {
+    text-align: justify;
+    padding-left: 70px;
+  }
+
+   .Studycase5 {
+    padding: 150px;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+   }
+   .Studycasetext5 {
+    text-align: justify;
+    padding-left: 70px;
+  }
+
+   .Studycase6 {
+    padding: 150px;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+   }
+   .Studycasetext6 {
+    text-align: justify;
+    padding-left: 70px;
+  }
