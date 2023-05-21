@@ -336,6 +336,7 @@ nav {
   vertical-align: top;
   width: 200px;
   height: 50px;
+  color: #fff;
   margin-right: 20px;
   margin-top: 15px;    /* if you want it vertically middle of the navbar. */
 }
@@ -347,10 +348,10 @@ nav {
   height: 80px;        /* if you want it to take the full height of the bar */
   line-height: 80px;    /* if you want it vertically middle of the navbar */
   font-family: 'Montserrat', sans-serif;
-  color: white;
+  color: fff;
   
 }
-
+/*
   .logo {
     color: #fff;
     font-size: 1.5rem;
@@ -359,6 +360,7 @@ nav {
     font-style: italic;
     padding: 0 2rem;
   }
+*/
 
   h2 {
     color:#159F91;
