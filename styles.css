@@ -335,6 +335,7 @@ nav {
   display: inline-block;
   vertical-align: top;
   width: 200px;
+	 font-family: 'Montserrat', sans-serif;
   height: 50px;
   color: #fff;
   margin-right: 20px;
@@ -348,7 +349,7 @@ nav {
   height: 80px;        /* if you want it to take the full height of the bar */
   line-height: 80px;    /* if you want it vertically middle of the navbar */
   font-family: 'Montserrat', sans-serif;
-  color: fff;
+  color: white;
   
 }
 /*
