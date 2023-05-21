@@ -29,493 +29,493 @@ nav {
 
 */
   
-  .Nav-image{
-    position: center;
-  }
+.Nav-image{
+  position: center;
+}
 
-  .introduction {
-    font-family: 'Times New Roman', Times, serif;
-    font-style: Italic;
-    font-size: small;
-    font-weight: normal;
-    word-spacing: 0.6px;
-  }
+.introduction {
+  font-family: 'Times New Roman', Times, serif;
+  font-style: Italic;
+  font-size: small;
+  font-weight: normal;
+  word-spacing: 0.6px;
+}
 
-  .Studycase1 {
-    padding: 150px;
-    display: flex;
-    align-items: center; 
-    justify-content: center;
-   }
-   .Studycasetext1 {
-    text-align: justify;
-    padding-left: 70px;
-   }
- 
-   .Studycase2 {
-    padding: 150px;
-    display: flex;
-    align-items: center; 
-    justify-content: center;
-  }
-  .Studycasetext2 {
-    text-align: justify;
-    padding-left: 70px;
-  }
+.Studycase1 {
+  padding: 150px;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+ }
+ .Studycasetext1 {
+  text-align: justify;
+  padding-left: 70px;
+ }
 
-  .Studycase3 {
-    padding: 150px;
-    display: flex;
-    align-items: center; 
-    justify-content: center;
-   }
-   .Studycasetext3 {
-    text-align: justify;
-    padding-left: 70px;
-  }
+ .Studycase2 {
+  padding: 150px;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+}
+.Studycasetext2 {
+  text-align: justify;
+  padding-left: 70px;
+}
 
-   .Studycase4 {
-    padding: 150px;
-    display: flex;
-    align-items: center; 
-    justify-content: center;
-   }
-   .Studycasetext4 {
-    text-align: justify;
-    padding-left: 70px;
-  }
+.Studycase3 {
+  padding: 150px;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+ }
+ .Studycasetext3 {
+  text-align: justify;
+  padding-left: 70px;
+}
 
-   .Studycase5 {
-    padding: 150px;
-    display: flex;
-    align-items: center; 
-    justify-content: center;
-   }
-   .Studycasetext5 {
-    text-align: justify;
-    padding-left: 70px;
-  }
+ .Studycase4 {
+  padding: 150px;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+ }
+ .Studycasetext4 {
+  text-align: justify;
+  padding-left: 70px;
+}
 
-   .Studycase6 {
-    padding: 150px;
-    display: flex;
-    align-items: center; 
-    justify-content: center;
-   }
-   .Studycasetext6 {
-    text-align: justify;
-    padding-left: 70px;
-  }
+ .Studycase5 {
+  padding: 150px;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+ }
+ .Studycasetext5 {
+  text-align: justify;
+  padding-left: 70px;
+}
+
+ .Studycase6 {
+  padding: 150px;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+ }
+ .Studycasetext6 {
+  text-align: justify;
+  padding-left: 70px;
+}
 
 /* DONATE CSS */
 
 .donation-container{
-    height: 100px;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 500;
-    font-size: 14px;
-    text-transform: uppercase;
-    margin-top: 30px;
-  }
-  .donation-box{
-    width: 390px;
-    height: 386px;
-    background-color: #F5F5F5;
-    border-top-left-radius: 4px;
-    border-top-right-radius: 4px;
-    position: relative;
-    margin-left: auto;
-    margin-right: auto;
-    -webkit-transition: all 0.15s ease-out;
-    -moz-transition: all 0.15s ease-out;
-    -o-transition: all 0.15s ease-out;
-    transition: all 0.15s ease-out;
-  }
-  .donation-box .title{
-    background-color: #FF80EA;
-    width: 100%;
-    border-top-left-radius: 4px;
-    border-top-right-radius: 4px;
-    color: white;
-    text-align: center;
-    padding-top: 12px;
-    padding-bottom: 12px;
-    font-size: 14px;
-  }
+  height: 100px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: uppercase;
+  margin-top: 30px;
+}
+.donation-box{
+  width: 390px;
+  height: 386px;
+  background-color: #F5F5F5;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  -webkit-transition: all 0.15s ease-out;
+  -moz-transition: all 0.15s ease-out;
+  -o-transition: all 0.15s ease-out;
+  transition: all 0.15s ease-out;
+}
+.donation-box .title{
+  background-color: #FF80EA;
+  width: 100%;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  color: white;
+  text-align: center;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  font-size: 14px;
+}
 .donation-box .donate-button {
-	background-color: #C1D82F;
-	width: 100%;
-	color: white;
-	text-align: center;
-	padding-top: 12px;
-	padding-bottom: 12px;
-	font-size: 18px;
-	bottom: 0px;
-	position: absolute;
-	cursor: pointer;
-	font-weight: 800;
+background-color: #C1D82F;
+width: 100%;
+color: white;
+text-align: center;
+padding-top: 12px;
+padding-bottom: 12px;
+font-size: 18px;
+bottom: 0px;
+position: absolute;
+cursor: pointer;
+font-weight: 800;
 }
 
 .donation-box .fields {
-	width: 59%;
-	display: block;
-	position: absolute;
-	top: 60px;
-	left: 15px;
+width: 59%;
+display: block;
+position: absolute;
+top: 60px;
+left: 15px;
 }
 
 .donation-box .fields input {
-	width: 90%;
-	font-size: 17px;
-	padding: 10px;
-	border-radius: 4px;
-	border-width: 0px;
-	color: #5C5C5C;
-	font-family: 'Montserrat', sans-serif;
-	font-weight: 500;
-	margin-bottom: 10px;
-	-webkit-font-smoothing: antialiased;
+width: 90%;
+font-size: 17px;
+padding: 10px;
+border-radius: 4px;
+border-width: 0px;
+color: #5C5C5C;
+font-family: 'Montserrat', sans-serif;
+font-weight: 500;
+margin-bottom: 10px;
+-webkit-font-smoothing: antialiased;
 }
 
 ::-webkit-input-placeholder {
-   color: #cdcdcd;
-   font-size: 15px;
+ color: #cdcdcd;
+ font-size: 15px;
 }
 
 :-moz-placeholder { /* Firefox 18- */
-   color: #cdcdcd;
-   font-size: 15px;
+ color: #cdcdcd;
+ font-size: 15px;
 }
 
 ::-moz-placeholder {  /* Firefox 19+ */
-   color: #cdcdcd;
-   font-size: 15px; 
+ color: #cdcdcd;
+ font-size: 15px; 
 }
 
 :-ms-input-placeholder {  
-   color: #cdcdcd;
-   font-size: 15px;
+ color: #cdcdcd;
+ font-size: 15px;
 }
 
 .donation-box .amount {
-	width: 30%;
-	display: block;
-	position: absolute;
-	top: 60px;
-	right: 15px;
+width: 30%;
+display: block;
+position: absolute;
+top: 60px;
+right: 15px;
 }
 
 .donation-box .amount .button {
-	width: 100%;
-	background-color: gray;
-	margin-bottom: 10px;
-	text-align: center;
-	color: white;
-	padding: 15px 0px 15px 0px;
-	border-radius: 4px;
-	font-size: 20px;
-	cursor: pointer;
-	
-	-webkit-transition: 400ms background-color;
-	-moz-transition: 800ms opacity, 800ms right;
-	-ms-transition: 800ms opacity, 800ms right;
-	-o-transition: 800ms opacity, 800ms right;
-	transition: 200ms background-color;
+width: 100%;
+background-color: gray;
+margin-bottom: 10px;
+text-align: center;
+color: white;
+padding: 15px 0px 15px 0px;
+border-radius: 4px;
+font-size: 20px;
+cursor: pointer;
+
+-webkit-transition: 400ms background-color;
+-moz-transition: 800ms opacity, 800ms right;
+-ms-transition: 800ms opacity, 800ms right;
+-o-transition: 800ms opacity, 800ms right;
+transition: 200ms background-color;
 }
 
 .donation-box .amount .button:hover {
-	background-color: #393939;
+background-color: #393939;
 }
 
 .donation-box .amount .button.selected {
-	background-color: #393939;
+background-color: #393939;
 }
 
 .donation-box .amount .button input {
-	min-width: 34px;
-	font-size: 20px;
-	font-weight: 500;
-	border: none;
-	background-color: transparent;
-	color: white;
-	font-family: Montserrat, sans-serif;
-	font-size: 20px;
-	font-stretch: normal;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 500;
-	border-bottom: 2px dashed white;
-	-webkit-font-smoothing: antialiased;
-	
-	-webkit-transition: all 0.15s ease-out;
-	-moz-transition: all 0.15s ease-out;
-	-o-transition: all 0.15s ease-out;
-	transition: all 0.15s ease-out;
+min-width: 34px;
+font-size: 20px;
+font-weight: 500;
+border: none;
+background-color: transparent;
+color: white;
+font-family: Montserrat, sans-serif;
+font-size: 20px;
+font-stretch: normal;
+font-style: normal;
+font-variant: normal;
+font-weight: 500;
+border-bottom: 2px dashed white;
+-webkit-font-smoothing: antialiased;
+
+-webkit-transition: all 0.15s ease-out;
+-moz-transition: all 0.15s ease-out;
+-o-transition: all 0.15s ease-out;
+transition: all 0.15s ease-out;
 }
 
 .set-amount {
-	max-width: 96px;
+max-width: 96px;
 }
 
 .checkboxes {
-	position: absolute;
-	top: 242px;
-	left: 13px;
+position: absolute;
+top: 242px;
+left: 13px;
 }
 
 .checkboxes label {
-	position: relative;
-	top: -8px;
-	font-size: 13px;
-	color: gray;
+position: relative;
+top: -8px;
+font-size: 13px;
+color: gray;
 }
 
 .checkbox {
-	-webkit-appearance: none;
-	background-color: #fafafa;
-	border: 1px solid #C1D82F;
-	padding: 9px;
-	border-radius: 3px;
-	display: inline-block;
-	position: relative;
-	
-	-webkit-transition: all 0.15s ease-out;
-	-moz-transition: all 0.15s ease-out;
-	-o-transition: all 0.15s ease-out;
-	transition: all 0.15s ease-out;
+-webkit-appearance: none;
+background-color: #fafafa;
+border: 1px solid #C1D82F;
+padding: 9px;
+border-radius: 3px;
+display: inline-block;
+position: relative;
+
+-webkit-transition: all 0.15s ease-out;
+-moz-transition: all 0.15s ease-out;
+-o-transition: all 0.15s ease-out;
+transition: all 0.15s ease-out;
 }
 
 .checkbox:active, .checkbox:checked:active {
-	
+
 }
 
 .checkbox:checked {
-	background-color: #C1D82F;
-	border: 1px solid #C1D82F;
-	color: white;
+background-color: #C1D82F;
+border: 1px solid #C1D82F;
+color: white;
 }
 
 .checkbox:checked:after {
-	content: '\2714';
-	font-size: 14px;
-	position: absolute;
-	top: 0px;
-	left: 3px;
-	color: white;
+content: '\2714';
+font-size: 14px;
+position: absolute;
+top: 0px;
+left: 3px;
+color: white;
 }
 
 .confirm {
-	display: none;
-	position: absolute;
-	top: 335px;
-	left: 15px;
-	right: 15px;
-	font-size: 16px;
-	
-	-webkit-transition: all 0.15s ease-out;
-	-moz-transition: all 0.15s ease-out;
-	-o-transition: all 0.15s ease-out;
-	transition: all 0.15s ease-out;
+display: none;
+position: absolute;
+top: 335px;
+left: 15px;
+right: 15px;
+font-size: 16px;
+
+-webkit-transition: all 0.15s ease-out;
+-moz-transition: all 0.15s ease-out;
+-o-transition: all 0.15s ease-out;
+transition: all 0.15s ease-out;
 }
 
 .confirm i {
-	font-weight: bold;
-	text-decoration: underline;
-	font-style: normal;
+font-weight: bold;
+text-decoration: underline;
+font-style: normal;
 }
 
 /* HOME PAGE CSS */
 
 .navigation-bar {
-  width: 100%;  /* i'm assuming full width */
-  height: 80px; /* change it to desired width */
-  background-color: #240046; /* change to desired color */
+width: 100%;  /* i'm assuming full width */
+height: 80px; /* change it to desired width */
+background-color: #240046; /* change to desired color */
 }
 .logo {
-  display: inline-block;
-  vertical-align: top;
-  width: 200px;
-	 font-family: 'Montserrat', sans-serif;
-  height: 50px;
-  color: #fff;
-  margin-right: 20px;
-  margin-top: 15px;    /* if you want it vertically middle of the navbar. */
+display: inline-block;
+vertical-align: top;
+width: 200px;
+ font-family: 'Montserrat', sans-serif;
+height: 50px;
+color: #fff;
+margin-right: 20px;
+margin-top: 15px;    /* if you want it vertically middle of the navbar. */
 }
 .navigation-bar > a {
-  float: right;
-  vertical-align: top;
-  text-decoration: none;
-  margin-right: 20px;
-  height: 80px;        /* if you want it to take the full height of the bar */
-  line-height: 80px;    /* if you want it vertically middle of the navbar */
-  font-family: 'Montserrat', sans-serif;
-  color: white;
-  
+float: right;
+vertical-align: top;
+text-decoration: none;
+margin-right: 20px;
+height: 80px;        /* if you want it to take the full height of the bar */
+line-height: 80px;    /* if you want it vertically middle of the navbar */
+font-family: 'Montserrat', sans-serif;
+color: white;
+
 }
 /*
-  .logo {
-    color: #fff;
-    font-size: 1.5rem;
-	  align-items: left;
-    font-weight: bold;
-    font-style: italic;
-    padding: 0 2rem;
-  }
+.logo {
+  color: #fff;
+  font-size: 1.5rem;
+  align-items: left;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0 2rem;
+}
 */
 
-  h2 {
-    color:#159F91;
-    font-family: 'Montserrat', sans-serif;
-    text-align: center;
-  }
+h2 {
+  color:#159F91;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
 
-  .headerimage {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
+.headerimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
- h3 {
-    color:#159F91;
-    font-family: 'Montserrat', sans-serif;
-  }
+h3 {
+  color:#159F91;
+  font-family: 'Montserrat', sans-serif;
+}
 
-  .Home-About
-  {
-    font-family: Arial, Helvetica, sans-serif;
-    padding: 40px 0;
-    text-align: center;
+.Home-About
+{
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 40px 0;
+  text-align: center;
 
-  }
+}
 
-  .Home-Cases
-  {
-    color:#1EE3CF;
-    font-family: 'Montserrat', sans-serif;
-    text-align: center;
-  }
+.Home-Cases
+{
+  color:#1EE3CF;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
 
 
- .headerimage
-  {
-    padding: 40px;
-  }
-
-  *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Montserrat', sans-serif;
-  }
-
-/* === Google Font Import - Poppins === */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+.headerimage
+{
+  padding: 40px;
+}
 
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* === Google Font Import - Poppins === */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: 'Poppins', sans-serif;
 }
 
 .cardslider{
-  height: 30vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: #fff;
+height: 30vh;
+display: flex;
+align-items: center;
+justify-content: center;
+background: #fff;
 }
 
 section{
-  position: relative;  
-  height: 450px;
-  width: 1075px;
-  display: flex;
-  align-items: center;
+position: relative;  
+height: 450px;
+width: 1075px;
+display: flex;
+align-items: center;
 }
 
 .swiper{
-  width: 950px;
+width: 950px;
 }
 
 .card{
-  position: relative;
-  background: #fff;
-  border-radius: 20px;
-  margin: 20px 0;
-  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+position: relative;
+background: #fff;
+border-radius: 20px;
+margin: 20px 0;
+box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
 
 .card::before{
-  content: "";
-  position: absolute;
-  height: 40%;
-  width: 100%;
-  background: #240046;
-  border-radius: 20px 20px 0 0;
+content: "";
+position: absolute;
+height: 40%;
+width: 100%;
+background: #240046;
+border-radius: 20px 20px 0 0;
 }
 
 .card .card-content{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 30px;
-  position: relative;
-  z-index: 100;
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 30px;
+position: relative;
+z-index: 100;
 }
 
 section .card .image{
-  height: 140px;
-  width: 140px;
-  border-radius: 50%;
-  padding: 3px;
-  background: #240046;
+height: 140px;
+width: 140px;
+border-radius: 50%;
+padding: 3px;
+background: #240046;
 }
 
 section .card .image img{
-  height: 100%;
-  width: 100%;
-  object-fit: cover;
-  border-radius: 50%;
-  border: 3px solid #fff;
+height: 100%;
+width: 100%;
+object-fit: cover;
+border-radius: 50%;
+border: 3px solid #fff;
 }
 
 .card .name-profession{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin-top: 10px;
-  color: #000;
+display: flex;
+flex-direction: column;
+align-items: center;
+margin-top: 10px;
+color: #000;
 } 
 
 .name-profession .name{
-  font-size: 20px;
-  font-weight: 600;
+font-size: 20px;
+font-weight: 600;
 }
 
 .name-profession .profession{
-  font-size:15px;
-  font-weight: 500;
+font-size:15px;
+font-weight: 500;
 }
 
 .swiper-pagination{
-  position: absolute;
+position: absolute;
 }
 
 .swiper-pagination-bullet{
-  height: 7px;
-  width: 26px;
-  border-radius: 25px;
-  background: #240046;
+height: 7px;
+width: 26px;
+border-radius: 25px;
+background: #240046;
 }
 
 .swiper-button-next, .swiper-button-prev{
-  opacity: 0.7;
-  color: #240046;
-  transition: all 0.3s ease;
+opacity: 0.7;
+color: #240046;
+transition: all 0.3s ease;
 }
 .swiper-button-next:hover, .swiper-button-prev:hover{
-  opacity: 1;
-  color: #240046;
+opacity: 1;
+color: #240046;
 }
