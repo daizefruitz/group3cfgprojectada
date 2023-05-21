@@ -351,6 +351,15 @@ nav {
   
 }
 
+  .logo {
+    color: #fff;
+    font-size: 1.5rem;
+	  align-items: left;
+    font-weight: bold;
+    font-style: italic;
+    padding: 0 2rem;
+  }
+
   h2 {
     color:#159F91;
     font-family: 'Montserrat', sans-serif;
