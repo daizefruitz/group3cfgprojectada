@@ -1,15 +1,4 @@
-/*CASE STUDIES - CASE STUDIES : 
-  
-  .logo {
-    color: #fff;
-    font-size: 1.5rem;
-	  align-items: left;
-    font-weight: bold;
-    font-style: italic;
-    padding: 0 2rem;
-  }
-
-*/
+/*CASE STUDIES - CASE STUDIES : */
   
 .Nav-image{
   position: center;
@@ -144,7 +133,8 @@
     color:white;
     margin:20px;
     text-decoration: none;
-    font-size: 1.3em;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.0em;
     opacity: 0.7;
     transition: 0.5s;
   }
@@ -180,6 +170,7 @@
   .footerNav ul li {
     width: 100%;
     text-align: center;
+    font-family: 'Montserrat', sans-serif;
     margin: 10px;
   }
 }
@@ -209,7 +200,7 @@
   transition: all 0.15s ease-out;
 }
 .donation-box .title{
-  background-color: #FF80EA;
+  background-color: #159F91;
   width: 100%;
   border-top-left-radius: 4px;
   border-top-right-radius: 4px;
@@ -220,7 +211,7 @@
   font-size: 14px;
 }
 .donation-box .donate-button {
-background-color: #C1D82F;
+background-color: #159F91;
 width: 100%;
 color: white;
 text-align: center;
@@ -350,7 +341,7 @@ color: gray;
 .checkbox {
 -webkit-appearance: none;
 background-color: #fafafa;
-border: 1px solid #C1D82F;
+border: 1px solid #159F91;
 padding: 9px;
 border-radius: 3px;
 display: inline-block;
@@ -367,8 +358,8 @@ transition: all 0.15s ease-out;
 }
 
 .checkbox:checked {
-background-color: #C1D82F;
-border: 1px solid #C1D82F;
+background-color: #159F91;
+border: 1px solid #159F91;
 color: white;
 }
 
@@ -401,23 +392,26 @@ text-decoration: underline;
 font-style: normal;
 }
 
-/* HOME PAGE CSS */
+/* Nav CSS */
 
 .navigation-bar {
 width: 100%;  /* i'm assuming full width */
 height: 80px; /* change it to desired width */
 background-color: #240046; /* change to desired color */
 }
+
 .logo {
 display: inline-block;
 vertical-align: top;
-width: 200px;
  font-family: 'Montserrat', sans-serif;
-height: 50px;
+line-height:45px;
+font-size: 40px;
 color: #fff;
+padding-left: 20px;
 margin-right: 20px;
 margin-top: 15px;    /* if you want it vertically middle of the navbar. */
 }
+
 .navigation-bar > a {
 float: right;
 vertical-align: top;
@@ -429,16 +423,8 @@ font-family: 'Montserrat', sans-serif;
 color: white;
 
 }
-/*
-.logo {
-  color: #fff;
-  font-size: 1.5rem;
-  align-items: left;
-  font-weight: bold;
-  font-style: italic;
-  padding: 0 2rem;
-}
-*/
+
+/* HOME PAGE CSS */
 
 h2 {
   color:#159F91;
@@ -529,7 +515,7 @@ content: "";
 position: absolute;
 height: 40%;
 width: 100%;
-background: #240046;
+background: #159F91;
 border-radius: 20px 20px 0 0;
 }
 
