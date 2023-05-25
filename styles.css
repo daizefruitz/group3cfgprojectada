@@ -1,82 +1,138 @@
 /*CASE STUDIES - CASE STUDIES : */
   
-.Nav-image{
-  position: center;
-}
+nav {
+    width: 85.9%;
+    height: 80px;
+    background: #240046;
+    padding: 0rem calc((100vw - 1300px) / 2);
+    margin-top: -1%;
+    margin-left: -1%;
+    
+  }
+  
+    .logo {
+    float: left;
+    display: inline-block;
+    vertical-align: top;
+    font-family: 'Montserrat', sans-serif;
+    line-height:45px;
+    font-size: 40px;
+    color: #fff;
+    padding-left: 20px;
+    margin-right: 20px;
+    margin-top: 15px; 
+    }  
+    
+   li{ 
+    list-style:none;
+    display: inline-block;
+    
+   }
+   
+   li a{
+    color:white;
+    font-weight:bold;
+    font-size:18px;
+    font-family: 'Montserrat', sans-serif;
+    padding-left:25px;
+    margin-left: 1px;
+    text-decoration:none;
+   }
 
-.introduction {
-  font-family: 'Times New Roman', Times, serif;
-  font-style: Italic;
-  font-size: small;
-  font-weight: normal;
-  word-spacing: 0.6px;
-}
+  nav a:hover{
+    color: black;
+  }
+  
+  .nav-items {
+    color:#fff;
+    justify-content: space-between;
+    float: right;
+    margin-right: -10px;
+    line-height:45px;
+    
+  }
 
-.Studycase1 {
-  padding: 150px;
-  display: flex;
-  align-items: center; 
-  justify-content: center;
- }
- .Studycasetext1 {
-  text-align: justify;
-  padding-left: 70px;
- }
+  .Nav-image{
+    position: center;
+  }
 
- .Studycase2 {
-  padding: 150px;
-  display: flex;
-  align-items: center; 
-  justify-content: center;
-}
-.Studycasetext2 {
-  text-align: justify;
-  padding-left: 70px;
-}
+  .introduction {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-style: Italic;
+    font-size: 21;
+    font-weight: normal;
+    word-spacing: 1px;
+    margin:50px;
+    height: 200px;
 
-.Studycase3 {
-  padding: 150px;
-  display: flex;
-  align-items: center; 
-  justify-content: center;
- }
- .Studycasetext3 {
-  text-align: justify;
-  padding-left: 70px;
-}
+  }
+   
+  .Studycase1 {
+    padding: 150px;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+   }
+   .Studycasetext1 {
+    text-align: justify;
+    padding-left: 70px;
+   }
+ 
+   .Studycase2 {
+    padding: 150px;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+  }
+  .Studycasetext2 {
+    text-align: justify;
+    padding-left: 70px;
+  }
 
- .Studycase4 {
-  padding: 150px;
-  display: flex;
-  align-items: center; 
-  justify-content: center;
- }
- .Studycasetext4 {
-  text-align: justify;
-  padding-left: 70px;
-}
+  .Studycase3 {
+    padding: 150px;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+   }
+   .Studycasetext3 {
+    text-align: justify;
+    padding-left: 70px;
+  }
 
- .Studycase5 {
-  padding: 150px;
-  display: flex;
-  align-items: center; 
-  justify-content: center;
- }
- .Studycasetext5 {
-  text-align: justify;
-  padding-left: 70px;
-}
+   .Studycase4 {
+    padding: 150px;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+   }
+   .Studycasetext4 {
+    text-align: justify;
+    padding-left: 70px;
+  }
 
- .Studycase6 {
-  padding: 150px;
-  display: flex;
-  align-items: center; 
-  justify-content: center;
- }
- .Studycasetext6 {
-  text-align: justify;
-  padding-left: 70px;
-}
+   .Studycase5 {
+    padding: 150px;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+   }
+   .Studycasetext5 {
+    text-align: justify;
+    padding-left: 70px;
+  }
+
+   .Studycase6 {
+    padding: 150px;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+   }
+   .Studycasetext6 {
+    text-align: justify;
+    padding-left: 70px;
+  }
+
 
 /*FOOTER*/
   footer{
